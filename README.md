@@ -1,2 +1,2 @@
 # RA Serviços Dinâmicos Page
- A responsive SPA for my agency.
+ A responsive and simple web page for my agency.
